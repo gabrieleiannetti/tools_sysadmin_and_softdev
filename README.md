@@ -9,6 +9,8 @@ to modern work tools in the environment of software programming.
 
 As a version control system we use GIT.
 
+#### Basic Concepts
+
 The following features should be clear to work with GIT in the first place:
 
 * Creating a Repository
@@ -25,6 +27,13 @@ A short introduction into GIT can be found here: https://rogerdudler.github.io/g
 
 > Try also to understand the workflow behind GIT regarding the "Working Directrory/Staging Area/HEAD" mentioned in the article above.
 
+#### Advances Concepts
+
+* Branches
+* Merging
+* Tags  
+
+and so on...
 
 ### Questions
 
