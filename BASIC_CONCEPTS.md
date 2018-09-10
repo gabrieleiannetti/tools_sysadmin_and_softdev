@@ -47,9 +47,9 @@ As a programming language we choose the Python, since it has a powerful standard
 
 The official [Python Tutorial](https://docs.python.org/2/tutorial/index.html) is a good starting point to get in touch with the basic concepts:
 
-1. Data Types (Chapter 3)
-2. Control Flows (Chapter 4)
-3. Data Structures (Chapter 5)
+1. Data Types ([Chapter 3](https://docs.python.org/2/tutorial/introduction.html))
+2. Control Flows ([Chapter 4](https://docs.python.org/2/tutorial/controlflow.html))
+3. Data Structures ([Chapter 5](https://docs.python.org/2/tutorial/datastructures.html))
 
 > Further Reading: ???
 
