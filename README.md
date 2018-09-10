@@ -21,7 +21,7 @@ additional branches.
 Work is done on a local repository only! Therefore there will exist no remote 
 repository and no commits will be pushed.
 
-A good and short introduction into GIT can be found here: https://rogerdudler.github.io/git-guide/index.de.html
+A good and short introduction into GIT can be found here: https://rogerdudler.github.io/git-guide/index.de.html.
 
 > Hint: Try also to understand the workflow behind GIT regarding the "Working Directrory/Staging Area/HEAD" mentioned in the article above.
 
@@ -48,8 +48,6 @@ A good and short introduction into GIT can be found here: https://rogerdudler.gi
 
 As a programming language we choose the Python, 
 since it has a powerful standard library and is relativly easy to learn 
-compared to a more low-level programming languages e.g. C/C++.
+compared to a low-level programming language e.g. C/C++.
 
-
-
-Learn about the differences between Python and C/C++ (e.g.: https://www.quora.com/What-is-the-difference-between-programming-languages-such-as-Python-C-C++-and-Java).
+> _Learn about the differences between Python and C/C++_ (e.g.: https://www.quora.com/What-is-the-difference-between-programming-languages-such-as-Python-C-C++-and-Java).
