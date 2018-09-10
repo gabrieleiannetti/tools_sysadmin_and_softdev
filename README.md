@@ -11,17 +11,14 @@ As a version control system we use GIT.
 
 #### Basic Concepts
 
-The following features should be clear to work with GIT in the first place:
+The following features should be clear to work with GIT locally in the first place:
 
 * Creating a Repository
 * Adding Files to a Repository
 * Commiting Changes to a Repository
 
 In our first repository we will work directly on the master branch with no 
-additional branches.
-
-Work is done on a local repository only! Therefore there will exist no remote 
-repository and no commits will be pushed.
+additional branches. Since we are working locally no commits have to be pushed to a remote repository.
 
 A short introduction into GIT can be found here: https://rogerdudler.github.io/git-guide/index.html.
 
@@ -33,7 +30,7 @@ A short introduction into GIT can be found here: https://rogerdudler.github.io/g
 * Merging
 * Tags  
 
-and so on...
+and much more...
 
 ### Questions
 
