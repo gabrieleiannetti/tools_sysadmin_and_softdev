@@ -4,4 +4,4 @@ This guide is designed to give a short and practical introduction to modern work
 
 __Table of Contens__
 
-* Basic Concepts Working with GIT and Python
+* [Basic Concepts Working with GIT and Python](./basic_concepts.md)
