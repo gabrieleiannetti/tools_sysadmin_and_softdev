@@ -1,7 +1,6 @@
 # Learning Work Tools
 
-This guide is designed to give a short and practical introduction 
-to modern work tools in the environment of software programming for beginners.
+This guide is designed to give a short and practical introduction to modern work tools in the environment of software programming and engineering currently just up to for beginners.
 
 ## Using a Version Control System
 
