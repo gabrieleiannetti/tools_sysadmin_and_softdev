@@ -51,7 +51,7 @@ The official [Python Tutorial](https://docs.python.org/2/tutorial/index.html) is
 2. Control Flows ([Chapter 4](https://docs.python.org/2/tutorial/controlflow.html))
 3. Data Structures ([Chapter 5](https://docs.python.org/2/tutorial/datastructures.html))
 
-> Further Reading: ???
+> It is also worth reading the introduction and the first two chapters of the tutorial.
 
 
 __Learn about the differences between Python and C++__
