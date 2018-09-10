@@ -43,5 +43,16 @@ A short introduction into GIT can be found here: https://rogerdudler.github.io/g
 
 As a programming language we choose the Python, since it has a powerful standard library and is relatively easy to use due to its more abstract concepts compared to e.g. C/C++.
 
+#### The Python Tutorial
+
+The official [Python Tutorial](https://docs.python.org/2/tutorial/index.html) is a good starting point to get in touch with the basic concepts:
+
+1. Data Types (Chapter 3)
+2. Control Flows (Chapter 4)
+3. Data Structures (Chapter 5)
+
+> Further Reading: ???
+
+
 __Learn about the differences between Python and C++__
 * https://www.educba.com/python-vs-c-plus-plus/
