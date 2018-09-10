@@ -56,6 +56,5 @@ As a programming language we choose the Python, since it has a powerful standard
 
 __Learn about the differences between Python and C++__
 * https://www.educba.com/python-vs-c-plus-plus/
-* https://www.quora.com/What-is-the-difference-between-programming-languages-such-as-Python-C-C++-and-Java
 
 
