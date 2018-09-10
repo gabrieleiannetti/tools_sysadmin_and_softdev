@@ -54,7 +54,7 @@ and much more...
 
 As a programming language we choose the Python, since it has a powerful standard library and is relatively easy to learn due to its more abstract concepts compared to e.g. C/C++.
 
-__Learn about the differences between Python and C/C++__
+__Learn about the differences between Python and C++__
 * https://www.quora.com/What-is-the-difference-between-programming-languages-such-as-Python-C-C++-and-Java
 * https://www.educba.com/python-vs-c-plus-plus/
 
