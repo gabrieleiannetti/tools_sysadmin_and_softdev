@@ -1,5 +1,7 @@
 # Basic Concepts
 
+In this section the version control system GIT and programming language Python is introduced.
+
 ## Using a Version Control System
 
 ### Overview
