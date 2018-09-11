@@ -13,6 +13,7 @@ The following features should be clear to work with GIT locally in the first pla
 * Creating a Repository
 * Adding Files to a Repository
 * Commiting Changes to a Repository
+* Viewing the Repository History
 
 In our first repository we will work directly on the master branch with no 
 additional branches. Since we are working locally no commits have to be pushed to a remote repository.
@@ -27,7 +28,7 @@ A short introduction into GIT can be found here: https://rogerdudler.github.io/g
 2. Which is the name of the default branch you are working on?
 3. How do you add files to a repository?
 4. How do you add and commit files with a specific commit message?
-
+5. How do you view the repository history?
 
 ### Practice
 
@@ -35,7 +36,6 @@ A short introduction into GIT can be found here: https://rogerdudler.github.io/g
 2. Use the command line GIT interface.
 3. Create a repository as .../practice_git/
 4. Practice with the features mentioned above.
-
 
 ## Using a Programming Language
 
