@@ -1,7 +1,7 @@
 # Basic Concepts
 
 In this section the version control system GIT and programming language Python is introduced.
-The goal here is to get a good understanding of the basics in a relatively short time.
+The goal here is to get a good understanding of the very basics in a relatively short time.
 
 ## Using a Version Control System
 
@@ -48,11 +48,11 @@ As a programming language we choose the Python, since it has a powerful standard
 
 #### The Python Tutorial
 
-The official [Python Tutorial](https://docs.python.org/2/tutorial/index.html) is a good starting point to get in touch with the basic concepts:
+The official [Python Tutorial](https://docs.python.org/3/tutorial/index.html) is a good starting point to get in touch with the following basic concepts:
 
-1. Data Types ([Chapter 3](https://docs.python.org/2/tutorial/introduction.html))
-2. Control Flows ([Chapter 4](https://docs.python.org/2/tutorial/controlflow.html))
-3. Data Structures ([Chapter 5](https://docs.python.org/2/tutorial/datastructures.html))
+1. Data Types (Chapter 3)
+2. Control Flows (Chapter 4)
+3. Data Structures (Chapter 5)
 
 > It is also worth reading the introduction and the first two chapters of the tutorial!  
 
