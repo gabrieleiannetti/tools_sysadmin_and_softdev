@@ -51,7 +51,7 @@ As a programming language we choose the Python, since it has a powerful standard
 The official [Python Tutorial](https://docs.python.org/3/tutorial/index.html) is a good starting point to get in touch with the following basic concepts:
 
 1. Data Types (Chapter 3)
-2. Control Flows (Chapter 4)
+2. Control Flows (Chapter 4 - 4.5)
 3. Data Structures (Chapter 5)
 
 > It is also worth reading the introduction and the first two chapters of the tutorial!  
@@ -62,7 +62,7 @@ To dive directly into the practical part of programming the book __Learn Python 
 
 The exercises in the book will be grouped into modules where each module is a mile stone for a review of the content learned from the book:
 
-* Exercise 1 - 10 (Module 1)
-* Exercise 11 - 14 (Module 2)
-* Exercise 15 - 17 (Module 3)
-* Exercise 18 - 20 (Module 4)
+* Module 1 (Exercise 1 - 10)
+* Module 2 (Exercise 11 - 14)
+* Module 3 (Exercise 15 - 17)
+* Module 4 (Exercise 18 - 20)
