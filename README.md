@@ -2,7 +2,7 @@
 
 ## Motivation
 
-This guide is designed to give a short and practical introduction to software programming for our trainees. 
+This guide is designed to give a short and practical introduction to support my teaching leasons at the institue.
 
 ## Table of Contens
 
