@@ -43,6 +43,8 @@ A short introduction into GIT can be found here: https://rogerdudler.github.io/g
 
 As a programming language we choose the Python, since it has a powerful standard library and is relatively easy to use due to its more abstract concepts compared to e.g. C/C++.
 
+> _Learn about the differences between Python and C++ e.g. https://www.educba.com/python-vs-c-plus-plus/._
+
 #### The Python Tutorial
 
 The official [Python Tutorial](https://docs.python.org/2/tutorial/index.html) is a good starting point to get in touch with the basic concepts:
@@ -53,5 +55,6 @@ The official [Python Tutorial](https://docs.python.org/2/tutorial/index.html) is
 
 > It is also worth reading the introduction and the first two chapters of the tutorial!  
 
-__Learn about the differences between Python and C++__
-* https://www.educba.com/python-vs-c-plus-plus/
+#### Learn Python the Hard Way
+
+Get a copy of the book __Learn Python the Hard Way__. This book follows a non conventional approach which goes directly to the practical part and let you write some code first and think after. This book seems to fit well in the context of this guide to get you directly in touch with the practical part of programming.
