@@ -1,7 +1,7 @@
 # Basic Concepts
 
 In this section the version control system GIT and programming language Python is introduced.
-The goal here is to get a good understanding of the very basics in a relatively short time.
+The goal here is to get a good understanding of the basics in a relatively short time.
 
 ## Using a Version Control System
 
