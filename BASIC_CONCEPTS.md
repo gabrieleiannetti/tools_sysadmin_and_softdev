@@ -50,9 +50,13 @@ As a programming language we choose the Python, since it has a powerful standard
 
 > _Learn about the differences between Python and C++ e.g. https://www.educba.com/python-vs-c-plus-plus/._
 
+### Introduction into Python
+
 #### The Python Tutorial
 
-The official [Python Tutorial](https://docs.python.org/3/tutorial/index.html) is a good starting point to get in touch with the following basic concepts:
+The official Python documentaion provides a great source of knowledge and is a good starting point for learning Python.
+
+To provide a first and very basic impression of Python the [Python Tutorial](https://docs.python.org/3/tutorial/index.html) is refered to introduce the following aspects:
 
 1. Data Types (Chapter 3)
 2. Control Flows (Chapter 4 - 4.5)
