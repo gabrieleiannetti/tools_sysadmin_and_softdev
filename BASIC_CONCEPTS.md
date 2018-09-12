@@ -12,15 +12,19 @@ As a version control system we use GIT.
 The following features should be clear to work with GIT in the first place:
 
 * Creating a local repository
+* Checking the status of the repository
 * Adding files to the staging area
 * Commiting changes to a repository
 * Viewing the repository history
+* Showing log messages to a specific commit
 * Differences about the working directrory, staging area and head
 
 In our first repository we will work directly on the master branch with no 
 additional branches. Since we are working locally no commits have to be pushed to a remote repository.
 
-A short introduction into GIT can be found here: https://rogerdudler.github.io/git-guide/index.html.
+As a reference the following links are suggested: 
+* https://git-scm.com/docs/gittutorial
+* https://rogerdudler.github.io/git-guide/index.html
 
 ### Questions
 
