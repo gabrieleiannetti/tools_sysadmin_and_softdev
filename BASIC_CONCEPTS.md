@@ -9,26 +9,25 @@ The goal here is to get a good understanding of the basics in a relatively short
 
 As a version control system we use GIT.
 
-The following features should be clear to work with GIT locally in the first place:
+The following features should be clear to work with GIT in the first place:
 
-* Creating a Repository
-* Adding Files to a Repository
-* Commiting Changes to a Repository
-* Viewing the Repository History
+* Creating a local repository
+* Adding files to the staging area
+* Commiting changes to a repository
+* Viewing the repository history
+* Differences about the working directrory, staging area and head
 
 In our first repository we will work directly on the master branch with no 
 additional branches. Since we are working locally no commits have to be pushed to a remote repository.
 
 A short introduction into GIT can be found here: https://rogerdudler.github.io/git-guide/index.html.
 
-> Try also to understand the workflow behind GIT regarding the "Working Directrory/Staging Area/HEAD" mentioned in the article above.
-
 ### Questions
 
 1. How do you create a local repository with GIT?
 2. Which is the name of the default branch you are working on?
-3. How do you add files to a repository?
-4. How do you add and commit files with a specific commit message?
+3. How do you add files to the staging area?
+4. How do you commit files with a specific commit message?
 5. How do you view the repository history?
 
 ### Practice
