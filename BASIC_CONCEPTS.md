@@ -56,7 +56,7 @@ As a programming language we choose the Python, since it has a powerful standard
 
 The official Python documentaion provides a great source of knowledge and is a good starting point for learning Python.
 
-To provide a first and very basic impression of Python the [Python Tutorial](https://docs.python.org/3/tutorial/index.html) is refered to introduce the following aspects:
+To provide a first and basic impression of Python the [Python Tutorial](https://docs.python.org/3/tutorial/index.html) is refered to introduce the following aspects in a very short amount of time:
 
 1. Data Types (Chapter 3)
 2. Control Flows (Chapter 4 - 4.5)
@@ -66,7 +66,9 @@ To provide a first and very basic impression of Python the [Python Tutorial](htt
 
 #### Learn Python the Hard Way
 
-To dive directly into the practical part of programming the book __Learn Python the Hard Way__ is used. This book follows a non conventional approach which goes directly to the practical part and let you write some code first and think after.  
+To dive directly into the practical part of programming with Python the book __Learn Python the Hard Way__ is used. This book follows a non conventional approach which goes directly to the practical part and let you write some code first and think after.  
+
+This book is taken into account for teaching Python programming when the time window is not to tiny.
 
 The exercises in the book will be grouped into modules where each module is a mile stone for a review of the content learned from the book:
 
