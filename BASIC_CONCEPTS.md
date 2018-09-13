@@ -78,3 +78,4 @@ The exercises in the book will be grouped into modules where each module is a mi
 * Module 4 (Exercise 18 - 20)
 * Module 5 (exercise 21 - 25)
 * Module 6 (exercise 26 - 31)
+* Module 7 (exercise 32 - 35)
