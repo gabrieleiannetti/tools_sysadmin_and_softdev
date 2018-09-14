@@ -73,7 +73,7 @@ This book is taken into account for teaching Python programming when the time wi
 The exercises in the book will be grouped into modules where each module represents a check point for reviewing the content learned:
 
 * Module 1 (Exercise 1 - 10): Comments, Variables and Printing
-* Module 2 (Exercise 11 - 14): Parameter, Prompting
+* Module 2 (Exercise 11 - 14): Parameter and Prompting
 * Module 3 (Exercise 15 - 17): Reading and Writing Files
 * Module 4 (Exercise 18 - 24): Functions, More File Operations and Return Values
 * Module 5 (exercise 23 - 26): Code Reviewing and Fixing
