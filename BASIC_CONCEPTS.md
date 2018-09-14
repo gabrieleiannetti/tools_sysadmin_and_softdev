@@ -79,4 +79,4 @@ The exercises in the book will be grouped into modules where each module represe
 * Module 5 (exercise 21 - 25)
 * Module 6 (exercise 26 - 31)
 * Module 7 (exercise 32 - 34)
-* Module 8 (exercise 36)
+* Module 8 (exercise 36): The Labyrinth Game
