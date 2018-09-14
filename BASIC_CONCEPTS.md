@@ -70,7 +70,7 @@ To dive directly into the practical part of programming with Python the book __L
 
 This book is taken into account for teaching Python programming when the time window is not to tiny.
 
-The exercises in the book will be grouped into modules where each module is a mile stone for a review of the content learned from the book:
+The exercises in the book will be grouped into modules where each module represents a check point for reviewing the content learned:
 
 * Module 1 (Exercise 1 - 10)
 * Module 2 (Exercise 11 - 14)
