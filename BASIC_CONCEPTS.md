@@ -72,11 +72,11 @@ This book is taken into account for teaching Python programming when the time wi
 
 The exercises in the book will be grouped into modules where each module represents a check point for reviewing the content learned:
 
-* Module 1 (Exercise 1 - 10)
-* Module 2 (Exercise 11 - 14)
-* Module 3 (Exercise 15 - 17)
-* Module 4 (Exercise 18 - 20)
-* Module 5 (exercise 21 - 25)
-* Module 6 (exercise 26 - 31)
-* Module 7 (exercise 32 - 34)
-* Module 8 (exercise 36): The Labyrinth Game
+* Module 1 (Exercise 1 - 10): Comments, Variables, Printing
+* Module 2 (Exercise 11 - 14): Parameter, Prompting
+* Module 3 (Exercise 15 - 17): Reading and Writing Files
+* Module 4 (Exercise 18 - 24): Functions, More File Operations, Return Values
+* Module 5 (exercise 23 - 26): Code Reviewing and Fixing
+* Module 6 (exercise 27 - 31): Boolean Algebra and Control Flows
+* Module 7 (exercise 32 - 34): More Control Flows, Data Structures
+* Module 8 (exercise 35): The Labyrinth Game
