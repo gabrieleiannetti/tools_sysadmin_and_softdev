@@ -76,7 +76,8 @@ The exercises in the book will be grouped into modules where each module represe
 * Module 2 (Exercise 11 - 14): Parameter and Prompting
 * Module 3 (Exercise 15 - 17): Reading and Writing Files
 * Module 4 (Exercise 18 - 24): Functions, More File Operations and Return Values
-* Module 5 (exercise 23 - 26): Code Reviewing and Fixing
-* Module 6 (exercise 27 - 31): Boolean Algebra and Control Flows
-* Module 7 (exercise 32 - 34): More Control Flows and Data Structures
-* Module 8 (exercise 35): A Little Game of Branching
+* Module 5 (Exercise 23 - 26): Code Reviewing and Fixing
+* Module 6 (Exercise 27 - 31): Boolean Algebra and Control Flows
+* Module 7 (Exercise 32 - 34): More Control Flows and Data Structures
+* Module 8 (Exercise 35): Review and Extend a Little Game
+* Module 9 (Exercise 36): Design and Create a Little Game
