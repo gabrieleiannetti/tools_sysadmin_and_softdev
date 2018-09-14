@@ -79,4 +79,4 @@ The exercises in the book will be grouped into modules where each module represe
 * Module 5 (exercise 23 - 26): Code Reviewing and Fixing
 * Module 6 (exercise 27 - 31): Boolean Algebra and Control Flows
 * Module 7 (exercise 32 - 34): More Control Flows, Data Structures
-* Module 8 (exercise 35): The Labyrinth Game
+* Module 8 (exercise 35): A Little Game of Branching
