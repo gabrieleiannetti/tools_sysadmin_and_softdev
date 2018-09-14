@@ -79,5 +79,7 @@ The exercises in the book will be grouped into modules where each module represe
 * Module 5 (Exercise 23 - 26): Code Reviewing and Fixing
 * Module 6 (Exercise 27 - 31): Boolean Algebra and Control Flows
 * Module 7 (Exercise 32 - 34): More Control Flows and Data Structures
-* Module 8 (Exercise 35): Review and Extend a Little Game
-* Module 9 (Exercise 36): Design and Implement a Little Game
+* Module 8 (Exercise 35): Reviewing and Extending a Little Game
+* Module 9 (Exercise 36): Designing and Implementing a Little Game
+* Module 10 (Exercise 37): Reviewing Symbols and Reading Code
+* Module 11 (Exercise 38 - 39): More Data Structures
