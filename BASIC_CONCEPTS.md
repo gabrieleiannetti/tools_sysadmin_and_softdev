@@ -83,5 +83,4 @@ The exercises in the book will be grouped into modules where each module represe
 * Module 9 (Exercise 36): Designing and Implementing a Little Game
 * Module 10 (Exercise 37): Reviewing Symbols and Reading Code
 * Module 11 (Exercise 38 - 39): More Data Structures
-* Module 12 (Exercise 40): Modules, Classes and Objects
-* Module 13 (Exercise 41): Definitions of Object Orientated Programming
+* Module 12 (Exercise 40-42): Modules, Classes and Objects
