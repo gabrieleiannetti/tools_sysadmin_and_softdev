@@ -82,5 +82,5 @@ The exercises in the book will be grouped into modules where each module represe
 * Module 8 (Exercise 35): Reviewing and Extending a Little Game
 * Module 9 (Exercise 36): Designing and Implementing a Little Game
 * Module 10 (Exercise 37): Reviewing Symbols and Reading Code
-* Module 11 (Exercise 38 - 39): More Data Structures
+* Module 11 (Exercise 38 - 39): More about Data Structures
 * Module 12 (Exercise 40-42): Modules, Classes and Objects
