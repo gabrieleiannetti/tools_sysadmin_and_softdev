@@ -54,7 +54,7 @@ As a programming language we choose the Python, since it has a powerful standard
 
 #### German Python 3 Tutorial
 
-A good Python 3 introduction written in German can be found [here](https://docs.python.org/3/tutorial/index.html) which is based on the book "Einführung in Python 3".
+A good Python 3 introduction written in German can be found [here](https://www.python-kurs.eu/python3_kurs.php) which is based on the book "Einführung in Python 3".
 
 #### The Official Python Tutorial
 
