@@ -31,6 +31,8 @@ Meaning and use of the following points:
 * Windows
   * Creating windows
   * Traversing windows
+* Panes
+  * Spliting a pane into multiple panes e.g. one horizontal top and two vertical bottom panes.
 
 ## Literature
 
