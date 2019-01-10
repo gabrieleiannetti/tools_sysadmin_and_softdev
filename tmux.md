@@ -17,3 +17,32 @@ Copied from Linux man page:
 > Any number of tmux instances may connect to the same session, and any number of windows may be present in the same session.
 >
 > Once all sessions are killed, tmux exits.
+
+## What You Should Learn
+
+Meaning and use of the following points:
+
+* The prefix key
+* Concept of Session, Window and Panes
+* Sessions
+  * Creating a default session
+  * Creating a named session
+  * Selecting sessions
+* Windows
+  * Creating windows
+  * Traversing windows
+
+## Literature
+
+A comprehensive book about tmux can be found online [here](https://leanpub.com/the-tao-of-tmux/read).
+
+For a basic understanding the following chapters are recommended:
+
+* Chapter 3 - Practical Usage
+* Chapter 5 - Sessions
+* Chapter 6 - Windows
+
+## Reference
+
+Linux man page: ```$ man tmux```  
+Show list of all key bindings: ```prefix (<ctrl+b>) + <?>```  
