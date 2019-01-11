@@ -2,7 +2,7 @@
 
 ## Motivation
 
-This guide is designed to give a short and practical introduction to support my teaching leasons at the institue.
+This guide is designed to give a short and practical introduction to the topic.
 
 ## Table of Contens
 
