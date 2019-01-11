@@ -47,8 +47,3 @@ For a basic understanding the following chapters are recommended:
 * Chapter 6 - Windows
 * Chapter 6 - Panes
 
-## Reference
-
-Linux man page: ```$ man tmux```  
-Show list of all key bindings: ```prefix (<ctrl+b>) + <?>```  
-[Online Cheat Sheet](https://leanpub.com/the-tao-of-tmux/read#appendix-cheatsheets)
