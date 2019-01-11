@@ -45,6 +45,7 @@ For a basic understanding the following chapters are recommended:
 * Chapter 3 - Practical Usage
 * Chapter 5 - Sessions
 * Chapter 6 - Windows
+* Chapter 6 - Panes
 
 ## Reference
 
