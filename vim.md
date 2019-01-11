@@ -18,11 +18,13 @@ To accomplish the very basic tasks the following concepts and techniques should 
 * File handling
   * Create a new file
   * Open an existing file
-  * Saving and closing a file
+  * Save and quit file
+  * Quit without saving file
 * Delete operations
   * Deleting single characters
   * Deleting whole lines
 
 ## Literature
 
-For the very basics listend above the first chapter "1st Level – Survive" [link](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) should be sufficient.
+For the very basics listened above the first two chapter on the following web site should sufficient:  
+http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
