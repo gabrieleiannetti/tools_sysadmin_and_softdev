@@ -33,6 +33,8 @@ Meaning and use of the following points:
   * Traversing windows
 * Panes
   * Spliting a pane into multiple panes e.g. one horizontal top and two vertical bottom panes.
+  * Traversing panes
+  * Resizing panes
 
 ## Literature
 
