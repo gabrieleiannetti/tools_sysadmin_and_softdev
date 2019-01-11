@@ -6,4 +6,5 @@ This guide is designed to give a short and practical introduction to support my 
 
 ## Table of Contens
 
-* [Basic Concepts Working with GIT and Python](./BASIC_CONCEPTS.md)
+* [Terminal Multiplexer](./tmux.md)
+* [Working with GIT and Python](./BASIC_CONCEPTS.md)
