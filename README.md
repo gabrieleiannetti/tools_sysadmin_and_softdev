@@ -7,5 +7,5 @@ This guide is designed to give a short and practical introduction to the topic.
 ## Table of Contens
 
 * [Terminal Multiplexer](./tmux.md)
-* [Vim](./vim.md)
+* [VIM](./vim.md)
 * [Working with GIT and Python](./git_and_python.md)
