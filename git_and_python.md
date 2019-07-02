@@ -1,7 +1,7 @@
 # Basic Concepts
 
-In this section the version control system GIT and programming language Python is introduced.
-The goal here is to get a good understanding of the basics in a relatively short time.
+In this section the version control system GIT and programming language Python is introduced.  
+The goal here is to get a good understanding of the basics in a relatively short time.  
 
 ## Using a Version Control System
 
@@ -18,12 +18,13 @@ The following features should be clear to work with GIT in the first place:
 * Viewing the repository history
 * Showing log messages to a specific commit
 
-In our first repository we will work directly on the master branch with no 
+In our first repository we will work directly on the master branch with no  
 additional branches. Since we are working locally no commits have to be pushed to a remote repository.
 
 As a reference the following links are suggested: 
-* https://git-scm.com/docs/gittutorial
 * https://rogerdudler.github.io/git-guide/index.html
+* https://git-scm.com/docs/gittutorial
+
 
 ### Questions
 
