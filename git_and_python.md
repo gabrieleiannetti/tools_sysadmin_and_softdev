@@ -18,10 +18,10 @@ The following features should be clear to work with GIT in the first place:
 * Viewing the repository history
 * Showing log messages to a specific commit
 
-In our first repository we will work directly on the master branch with no  
-additional branches. Since we are working locally no commits have to be pushed to a remote repository.
+In our first repository we will work directly on the master branch with no additional branches.  
+Since we are working locally no commits have to be pushed to a remote repository.
 
-As a reference the following links are suggested: 
+As a reference the following links are suggested:  
 * https://rogerdudler.github.io/git-guide/index.html
 * https://git-scm.com/docs/gittutorial
 
