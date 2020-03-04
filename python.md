@@ -1,5 +1,10 @@
 # Python
 
+## Table of Contents
+
+* [The Programming Language](#the-programming-language)
+* [Code Checker](#code-checker)
+
 ## The Programming Language
 
 Python has a powerful standard library and is relatively easy to use due to its more abstract concepts compared to e.g. C/C++...  
