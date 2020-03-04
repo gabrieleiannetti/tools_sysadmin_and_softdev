@@ -2,7 +2,8 @@
 
 ## Motivation
 
-This guide is designed to give a short and practical introduction to the topic.
+This guide is designed to give a short and practical introduction about free and powerful tools  
+for system administration and software development.
 
 ## Table of Contents
 
