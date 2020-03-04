@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [The Programming Language](#the-programming-language)
+* [Style Guide](#style-guide)
 * [Code Checker](#code-checker)
 
 ## The Programming Language
@@ -43,6 +44,10 @@ The exercises in the book will be grouped into modules where each module represe
 * Module 10 (Exercise 37): Reviewing Symbols and Reading Code
 * Module 11 (Exercise 38 - 39): More about Data Structures
 * Module 12 (Exercise 40-42): Modules, Classes and Objects
+
+## Style Guide
+
+[Official Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 ## Code Checker
 
