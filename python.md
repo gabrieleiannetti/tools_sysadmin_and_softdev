@@ -1,16 +1,10 @@
 # Python
 
-## Overview
+## The Programming Language
 
-As a programming language we choose the Python, since it has a powerful standard library and is relatively easy to use due to its more abstract concepts compared to e.g. C/C++.
+Python has a powerful standard library and is relatively easy to use due to its more abstract concepts compared to e.g. C/C++...  
 
 > _Learn about the differences between Python and C++ e.g. https://www.educba.com/python-vs-c-plus-plus/._
-
-## Introduction into Python
-
-### German Python 3 Tutorial
-
-A good Python 3 introduction written in German can be found [here](https://www.python-kurs.eu/python3_kurs.php) which is based on the book "Einführung in Python 3".
 
 ### The Official Python Tutorial
 
@@ -44,3 +38,8 @@ The exercises in the book will be grouped into modules where each module represe
 * Module 10 (Exercise 37): Reviewing Symbols and Reading Code
 * Module 11 (Exercise 38 - 39): More about Data Structures
 * Module 12 (Exercise 40-42): Modules, Classes and Objects
+
+## Code Checker
+
+[Pylint](https://www.pylint.org/) - Useful tool for checking Python code e.g. finding unused variables, syntax errors and more...  
+
