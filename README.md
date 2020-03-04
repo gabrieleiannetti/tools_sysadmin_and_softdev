@@ -8,4 +8,5 @@ This guide is designed to give a short and practical introduction to the topic.
 
 * [Terminal Multiplexer](./tmux.md)
 * [VIM](./vim.md)
-* [Working with GIT and Python](./git_and_python.md)
+* [GIT](./git.md)
+* [PYTHON](./python.md)
