@@ -4,7 +4,7 @@
 
 This guide is designed to give a short and practical introduction to the topic.
 
-## Table of Contens
+## Table of Contents
 
 * [Terminal Multiplexer](./tmux.md)
 * [VIM](./vim.md)
