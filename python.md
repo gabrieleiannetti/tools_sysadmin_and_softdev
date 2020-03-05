@@ -48,6 +48,7 @@ The exercises in the book will be grouped into modules where each module represe
 ## Style Guide
 
 [Official Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
+[Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 
 ## Code Checker
 
