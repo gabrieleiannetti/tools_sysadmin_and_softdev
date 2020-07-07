@@ -10,4 +10,4 @@ for system administration and software development.
 * [Terminal Multiplexer](./tmux.md)
 * [VIM](./vim.md)
 * [GIT](./git.md)
-* [Python](./python.md)
+* [Python](./python/README.md)
