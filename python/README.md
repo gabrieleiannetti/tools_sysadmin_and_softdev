@@ -26,7 +26,7 @@ To provide a first and basic impression of Python the [Python Tutorial](https://
 
 ### Learn Python the Hard Way
 
-To dive directly into the practical part of programming with Python the book __Learn Python the Hard Way__ (ver. 3) is used.  
+To dive directly into the practical part of programming with Python the book __Learn Python the Hard Way__ (third edition) is used.  
 This book follows a non conventional approach which goes directly to the practical part and let you write some code first and think after.  
 
 This book is taken into account for teaching Python programming when the time window is not to tiny.
