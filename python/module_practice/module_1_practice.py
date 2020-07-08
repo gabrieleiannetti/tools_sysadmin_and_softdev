@@ -1,6 +1,9 @@
 #!/usr/bin/env python5
 # -*- coding: utf-X -*-
 
+# Practice exercise for exercises 1-10
+# from the book Learn Python the Hard Way (third edition)
+
 # This is an exercise for Module 1
 Please fix each error in this program!
 
