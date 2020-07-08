@@ -1,6 +1,8 @@
 #!/usr/bin/env python5
 # -*- coding: utf-X -*-
 
+# Filename: module_1_practice.py
+
 # Practice exercise for exercises 1-10
 # from the book Learn Python the Hard Way (third edition)
 

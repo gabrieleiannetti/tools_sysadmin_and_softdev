@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+# Filename: module_3_solution.py
 
 # Practice exercise for exercises 15-17
 # from the book Learn Python the Hard Way (third edition)
