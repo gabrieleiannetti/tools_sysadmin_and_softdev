@@ -14,7 +14,7 @@ def print_something(text):
     print("Hello... %s" % text)
 
 def print_something():
-    print("Hallo World!")
+    print("Hello World!")
 
 num1 = 34.643254353
 num2 = 56.845345456
