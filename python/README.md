@@ -1,11 +1,5 @@
 # Python
 
-## Table of Contents
-
-* [The Programming Language](#the-programming-language)
-* [Style Guide](#style-guide)
-* [Code Checker](#code-checker)
-
 ## The Programming Language
 
 Python has a powerful standard library and is relatively easy to use due to its more abstract concepts compared to e.g. C/C++...  
@@ -45,17 +39,3 @@ The exercises in the book will be grouped into modules where each module represe
 * Module 10 (Exercise 37): Reviewing Symbols and Reading Code
 * Module 11 (Exercise 38 - 39): More about Data Structures
 * Module 12 (Exercise 40-42): Modules, Classes and Objects
-
-## Style Guide
-
-[Official Python Style Guide](https://www.python.org/dev/peps/pep-0008/)  
-[Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)  
-
-## Python Docstrings
-
-[Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)  
-
-## Code Checker
-
-[Pylint](https://www.pylint.org/) - Useful tool for checking Python code e.g. finding unused variables, syntax errors and more...  
-
