@@ -51,6 +51,10 @@ The exercises in the book will be grouped into modules where each module represe
 [Official Python Style Guide](https://www.python.org/dev/peps/pep-0008/)  
 [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)  
 
+## Python Docstrings
+
+[Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)  
+
 ## Code Checker
 
 [Pylint](https://www.pylint.org/) - Useful tool for checking Python code e.g. finding unused variables, syntax errors and more...  
